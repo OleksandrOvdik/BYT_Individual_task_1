@@ -1,7 +1,5 @@
-﻿using NUnit.Framework;
-using Tut2_s20123;
-
-namespace Part_1
+﻿using Tut2_s20123;
+namespace Part_1_Tests
 {
     public class Tests
     {
